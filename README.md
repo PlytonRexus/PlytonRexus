@@ -13,6 +13,8 @@
 
 - 📫 Email me at **j.mihir19.mj@gmail.com**
 
+- 📄 Find about my experiences in my [Résumé](https://drive.google.com/file/d/1OJ68VsQMQ8EmDRYvTonu2KOVYl9pjFXL/view?usp=sharing)
+
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact **I am not human, or so I like to think**
