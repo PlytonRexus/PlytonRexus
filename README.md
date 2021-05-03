@@ -1,11 +1,7 @@
 <h1 align="left">Hi there, I'm Mihir Jichkar</h1>
-<h3 align="left">An enthusiastic Javascript Developer based in India</h3>
+<h3 align="left">An enthusiastic Developer based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plytonrexus&label=Profile%20views&color=0e75b6&style=flat" alt="plytonrexus" /> </p>
-
-- 🔭 I'm currently working on [Sammy - a video player designed for accessibility](https://github.com/PlytonRexus/sammy-node)
-
-- 🌱 I’m currently learning **Redis**
 
 - 🤝 I’m looking for help with [IF-Script](https://github.com/PlytonRexus/if-script)
 
